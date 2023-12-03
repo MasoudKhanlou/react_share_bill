@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_share_bill/static/css/main.f38a3276.css",
+    "main.js": "/react_share_bill/static/js/main.cb51f571.js",
+    "index.html": "/react_share_bill/index.html",
+    "main.f38a3276.css.map": "/react_share_bill/static/css/main.f38a3276.css.map",
+    "main.cb51f571.js.map": "/react_share_bill/static/js/main.cb51f571.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.cb51f571.js"
+  ]
+}
